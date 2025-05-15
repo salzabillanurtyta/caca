@@ -2,5 +2,11 @@ import streamlit as st
 
 st.title("tralala trilili")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Love X-D."
+)
+st.image("views/IMG_8001.jpeg", width=200)
+st.write("\n")
+st.subheader("cacuca")
+st.write(
+    "coba liat coba"
 )
